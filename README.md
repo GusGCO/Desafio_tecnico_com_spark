@@ -2,9 +2,9 @@
 
 Este repositório contém um pipeline ETL (Extração, Transformação e Carga) utilizando PySpark para processar arquivos de dados e gerar resumos e balanços a partir de arquivos de clientes e vendas.
 
-# Documentação do Projeto - Análise de Dados com PySpark
+# Documentação do Projeto - Engenheiro de Dados com PySpark
 
-Este repositório contém um código de análise de dados utilizando PySpark. O objetivo é realizar operações de transformação e agregação de dados de maneira eficiente e escalável.
+Este repositório contém um código desenvolvido por um engenheiro de dados utilizando PySpark. O objetivo é realizar operações de **Extração**, **Transformação** e **Carga** (ETL) de dados de maneira eficiente e escalável.
 
 ## Pré-requisitos
 
